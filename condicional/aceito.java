@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 public class aceito{
     public static void main(String[] args) {
         String sexo = JOptionPane.showInputDialog(null, "Masculino (M) e Feminino (F):");
-        String altura = JOptionPane.showInputDialog(null, "Digite a sua altura:");;
+        String altura = JOptionPane.showInputDialog(null, "Digite a sua altura:");
         String peso = JOptionPane.showInputDialog(null, "Digite o seu peso:");
         double altura1 = Double.parseDouble(altura);
         double peso1 = Double.parseDouble(peso);
