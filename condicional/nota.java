@@ -16,11 +16,5 @@ public class nota {
             JOptionPane.showMessageDialog(null, "Avaliação Inválida");
             System.exit(0);
         }
-
-        // switch(mencao) {
-        //     case "A":
-        //     JOptionPane.showMessageDialog(null, "Promovido");
-        //     break;
-        // }
     }
 }
